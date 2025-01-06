@@ -17,11 +17,3 @@ This repository contains all projects for the MIRA course. The project includes 
     ```
 
 3. Ensure you have the necessary data files in the appropriate directories.
-
-## Usage
-
-### Preprocessing
-
-Run the preprocessing notebook to prepare the data:
-```sh
-jupyter notebook Final project/main/Exp_13_VoxelMorph_Reg_Preprocessing.ipynb
